@@ -1,10 +1,10 @@
 <img src = 'hello_world.jpg'/>
 <h2 align="center">HI THERE!</h2> 
-<h3 align="center">My name is Harold, it is a pleasure for me that you visit my profile, here you can see my work and my skills like full stack web developer.
+<h3>My name is Harold, it is a pleasure for me that you visit my profile, here you can see my work and my skills like full stack web developer.
 Ever working to be better. </h3>
 
 - 🌱 I’m currently learning  TYPESCRIPT and C language. 
-- 
+
 - 🔭 I’m currently looking for a job. 
 
 - 📫 How to contact me **harol20082008@hotmail.com**
