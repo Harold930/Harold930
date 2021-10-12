@@ -1,5 +1,4 @@
 <img src = 'hello_world.jpg'/>
-<h2 align="center">HI THERE!</h2> 
 <div size='20px'>My name is Harold, it is a pleasure for me that you visit my profile, here you can see my work and my skills like full stack web developer.
 Ever working to be better. </div>
 
