@@ -3,6 +3,10 @@
 <h3 align="center">My name is Harold, it is a pleasure for me that you visit my profile, here you can see my work and my skills like full stack web developer.
 Ever working to be better. </h3>
 
+- 🌱 I’m currently learning  ![TYPESCRIPT](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) and ![C] (https://raw.githubusercontent.com/devicons/devicon/master/icons/C/C-original.svg)
+- 
+- 🔭 I’m currently looking for a job. 
+
 - 📫 How to contact me **harol20082008@hotmail.com**
 
 <h3 align="left">Also, you can find me on:</h3>
